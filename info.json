@@ -1,0 +1,2 @@
+{"weather":{"api":"a60ea432178e047ba8005192c4c06446", "number":0, "lan":0, "lon":0, "settings":{"pressure":true, "humidity": true, 
+ "feel":true, "rain":true, "wind":true, "sun":true, "visibility":true, "unit":"celsius"}}, "font":{"top":{"color":"#000000"}, "middle":{"color":"#000000"}, "bottom":{"color":"#000000"}}, "wallpaper":{"top":{"method":"color", "color":"#D3F0CB"}, "middle":{"method":"color", "color":"F2CDB1", }, "bottom":{"method":"color", "color":"#FFFFFF", }}, "widgetposition":{"size":"auto", "location":""}, "refresh":""}
